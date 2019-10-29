@@ -4,8 +4,3 @@ this is two test
 this is three test
 again change
 is ok
-<<<<<<< HEAD
-this is master test
-=======
-git merge branch
->>>>>>> dev2
